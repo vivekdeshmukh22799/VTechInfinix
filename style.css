@@ -274,6 +274,8 @@ section .title::after{
     content: "what we provide";
 }
 .services .serv-content .card{
+    margin-top:30px;
+    /* height: 400px; */
     width: calc(33% - 20px);
     background: #222;
     text-align: center;
@@ -491,7 +493,10 @@ section .title::after{
 }
 .contact .contact-content .info .sub-title{
     color: #333;
+
 }
+
+
 .contact .right form .fields{
     display: flex;
 }

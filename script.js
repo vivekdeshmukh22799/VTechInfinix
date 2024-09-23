@@ -73,6 +73,6 @@ $(document).ready(function () {
 });
 
 
-function alertMsg() {
-    alert("Message Sent Successfully")
-}
+// function alertMsg() {
+//     alert("Message Sent Successfully")
+// }
